@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+      "outDir": "js", // biên dịch vào thư mục js
+    }
+  }
